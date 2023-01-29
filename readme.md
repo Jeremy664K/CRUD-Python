@@ -7,4 +7,4 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Icono de Github">
 </p>
 
-![Hero del portfolio de Jeremy Díaz](./preview.png)
+![CRUD en python](./preview.png)
